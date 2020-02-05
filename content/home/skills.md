@@ -21,8 +21,8 @@ subtitle = ""
   # description = "90%"
   
 [[feature]]
-  # icon = "laptop"
-  # icon_pack = "fas"
+  icon = "laptop"
+  icon_pack = "fas"
   name = "NVivo"
   # description = "100%"  
   
