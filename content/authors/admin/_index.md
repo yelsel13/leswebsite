@@ -43,17 +43,17 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
+# social:
+# - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+# - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+# - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+# - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Lesley Schneider is a PhD candidate in sociology at (the) Ohio State University. Her research examines multiple points throughout the cycle in and out of the criminal justice system, in particular criminal sentencing practices, reentry, and employment. She is advised by [Ryan King](https://sociology.osu.edu/people/king.2065). She enjoys hiking, literature, music, and baking in her free time. 
+Lesley Schneider is a PhD candidate in sociology at (the) Ohio State University. Her research examines multiple points throughout the cycle in and out of the criminal justice system, in particular criminal sentencing practices, reentry, and employment. She is advised by [Ryan King.](https://sociology.osu.edu/people/king.2065) She enjoys hiking, literature, music, and baking in her free time. 
