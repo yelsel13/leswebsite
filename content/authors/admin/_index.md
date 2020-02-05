@@ -72,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lesley Schneider is a PhD candidate in sociology at (the) Ohio State University. Her research examines multiple points throughout the cycle in and out of the criminal justice system, in particular criminal sentencing practices, reentry, and employment. She is advised by [Ryan King](https://sociology.osu.edu/people/king.2065). She enjoys hiking, literature, music, and baking in her free time. 
