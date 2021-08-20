@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Lesley Schneider is a PhD candidate in sociology at (the) Ohio State University. Her research examines multiple points throughout the cycle in and out of the criminal justice system, in particular criminal sentencing practices, reentry, and employment. She is advised by [Ryan King.](https://sociology.osu.edu/people/king.2065) She enjoys hiking, literature, music, and baking in her free time. 
+Lesley Schneider is a PhD candidate in sociology at (the) Ohio State University. Her research examines multiple points throughout the cycle in and out of the criminal justice system, in particular criminal sentencing practices, reentry, and employment. She is advised by [Mike Vuolo](https://u.osu.edu/vuolo.2/) and [Ryan King.](https://sociology.osu.edu/people/king.2065) She enjoys hiking, literature, music, and baking in her free time. 
